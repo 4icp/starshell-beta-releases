@@ -100,5 +100,7 @@ git pull
 ------
 
 [Website](https://starshell.net/)
+
 [Discord](https://discord.gg/U8SSK7T4xh)
+
 [Twitter](https://twitter.com/StarShellWallet)
