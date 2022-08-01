@@ -57,13 +57,15 @@ git pull
 
 1. Download and install [Chrome Canary](https://www.google.com/chrome/canary/).
 
-2. Open [chrome://extensions/](chrome://extensions/).
+2. Open `chrome://extensions/` .
 
 3. Enable Developer mode in the top-right corner.
 
+  ![Load extension](https://user-images.githubusercontent.com/1456400/182080739-7336099b-bd9b-45a3-b250-e763db2500d8.png)
+
 4. Click the "Load unpacked" button.
 
-5. Navigate the the directory where you cloned the `starshell-beta-releases` repository and select the `chrome` directory.
+5. Navigate the the directory where you cloned the `starshell-beta-releases` repository and choose the `chrome` directory.
 
 
 ## Setting up Firefox Developer Edition
