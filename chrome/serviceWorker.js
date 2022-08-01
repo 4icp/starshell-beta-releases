@@ -1,0 +1,1 @@
+import "/assets/src/script/service.a00c8b33.js";
