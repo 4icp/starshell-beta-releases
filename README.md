@@ -23,7 +23,7 @@ For everyone else, [#cloning-and-updating-with-github-desktop](clone and update 
 
 2. Open the [StarShell Beta Releases Repository](https://github.com/SolarRepublic/starshell-beta-releases) and click the green "Code" button, then "Open with GitHub Desktop".
 
-3. When a new release is published, open your local `starshell-beta-releases` repository in GitHub Desktop and click the "Fetch origin" button
+3. When a new release is published, open your local `starshell-beta-releases` repository in GitHub Desktop and click the "Fetch origin" or "Pull origin" button
 
 4. Continue to [Setting up with browser](#setting-up-with-browser)
 
