@@ -1,1 +1,1 @@
-import "/assets/src/script/service.a00c8b33.js";
+import "/assets/src/script/service.be4ee197.js";
