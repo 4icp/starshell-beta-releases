@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://starshell.net/">
+    <img src="https://starshell.net/media/logoshort.svg" alt="StarShell logo" width="200">
+  </a>
+</p>
+
 # StarShell Wallet Beta Setup: The "Weekly" Channel
 
 Welcome to the beta program. Since browser extensions must go through a lengthy review process (even for betas), we are providing the "Weekly" channel for users to install and test the beta on a (roughly) weekly update release cycle.
@@ -90,3 +96,9 @@ git pull
 ```
 
 2. Open your browser's extension manager and find the button to "reload" the StarShell extension. You should be good to go!
+
+------
+
+[Website](https://starshell.net/)
+[Discord](https://discord.gg/U8SSK7T4xh)
+[Twitter](https://twitter.com/StarShellWallet)
