@@ -62,7 +62,7 @@ git clone https://github.com/SolarRepublic/starshell-beta-releases
 
 4. Click the "Load unpacked" button.
 
-5. Navigate the the directory where you cloned the `starshell-beta-releases` repository and choose the `chrome` directory.
+5. Navigate to the directory where you cloned the `starshell-beta-releases` repository and choose the `chrome` directory.
 
 6. Make sure to enable/allow system notifications for Google Chrome Canary in your OS settings. This will let you receive notifications about incoming/outgoing transactions as they succeed.
 
