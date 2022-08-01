@@ -68,7 +68,7 @@ git clone https://github.com/SolarRepublic/starshell-beta-releases
 
 ## Setting up Firefox Developer Edition
 
-To be added in v0.0.2 .
+To be added in v0.0.5 .
 
 <!-- 1. Download and install [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) -->
 
