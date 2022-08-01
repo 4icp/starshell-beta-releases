@@ -17,8 +17,9 @@ In the interest of maximum security, its highly recommended that you **DO NOT in
 
 To make the update process simple, you will need to clone the Weekly channel git repository.
 
-For advanced users, [clone and update the repository using git](#cloning-with-git).
-For everyone else, [clone and update using GitHub Desktop](cloning-with-github-desktop).
+The recommended setup is to [clone and update using GitHub Desktop](cloning-with-github-desktop).
+
+For advanced users, you [clone and update the repository using git](#cloning-with-git).
 
 
 ### Cloning with GitHub Desktop
