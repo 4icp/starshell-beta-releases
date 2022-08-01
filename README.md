@@ -35,7 +35,7 @@ For everyone else, [#cloning-and-updating-with-github-desktop](clone and update 
 2. Open a terminal and change directory to where you want to save the built extension. Then run:
 
 ```bash
-git clone https://github.com/SolarRepublic/starshell-beta
+git clone https://github.com/SolarRepublic/starshell-beta-releases
 ```
 
 3. When a new release is published, open a terminal and change directory into the folder that was created by the clone and run:
