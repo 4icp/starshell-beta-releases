@@ -2,8 +2,6 @@
 
 Welcome to the beta program. Since browser extensions must go through a lengthy review process (even for betas), we are providing the "Weekly" channel for users to install and test the beta on a (roughly) weekly update release cycle.
 
-When a new release is published, you will be forced to update in order to continue beta testing.
-
 
 ## Getting Started
 
@@ -13,22 +11,20 @@ In the interest of maximum security, its highly recommended that you **DO NOT in
 
 To make the update process simple, you will need to clone the Weekly channel git repository.
 
-For advanced users, [#cloning-and-updating-with-git](clone and update the repository using git).
-For everyone else, [#cloning-and-updating-with-github-desktop](clone and update using GitHub Desktop).
+For advanced users, [#cloning--with-git](clone and update the repository using git).
+For everyone else, [#cloning-with-github-desktop](clone and update using GitHub Desktop).
 
 
-### Cloning and updating with GitHub Desktop
+### Cloning with GitHub Desktop
 
 1. Download and setup [GitHub Deskop](https://desktop.github.com/).
 
 2. Open the [StarShell Beta Releases Repository](https://github.com/SolarRepublic/starshell-beta-releases) and click the green "Code" button, then "Open with GitHub Desktop".
 
-3. When a new release is published, open your local `starshell-beta-releases` repository in GitHub Desktop and click the "Fetch origin" or "Pull origin" button
-
-4. Continue to [Setting up with browser](#setting-up-with-browser)
+3. Continue to [Setting up with browser](#setting-up-with-browser)
 
 
-### Cloning and updating with git
+### Cloning with git
 
 1. Make sure you have [git](https://git-scm.com/downloads) installed.
 
@@ -38,13 +34,7 @@ For everyone else, [#cloning-and-updating-with-github-desktop](clone and update 
 git clone https://github.com/SolarRepublic/starshell-beta-releases
 ```
 
-3. When a new release is published, open a terminal and change directory into the folder that was created by the clone and run:
-
-```bash
-git pull
-```
-
-4. Continue to [Setting up with browser](#setting-up-with-browser)
+3. Continue to [Setting up with browser](#setting-up-with-browser)
 
 
 ## Setting up with browser
@@ -77,3 +67,26 @@ To be added in v0.0.2 .
 <!-- 1. Download and install [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) -->
 
 <!-- 2. Open `about:addons` . -->
+
+
+## Updating
+
+When a new release is published, you will be forced to update in order to continue beta testing.
+
+
+### GitHub Desktop
+
+1. When a new release is published, open your local `starshell-beta-releases` repository in GitHub Desktop and click the "Fetch origin" or "Pull origin" button
+
+2. Open your browser's extension manager and find the button to "reload" the StarShell extension. You should be good to go!
+
+
+### CLI
+
+1. When a new release is published, open a terminal and change directory into the folder that was created by the clone and run:
+
+```bash
+git pull
+```
+
+2. Open your browser's extension manager and find the button to "reload" the StarShell extension. You should be good to go!
