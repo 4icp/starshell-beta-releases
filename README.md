@@ -67,13 +67,13 @@ git pull
 
 5. Navigate the the directory where you cloned the `starshell-beta-releases` repository and choose the `chrome` directory.
 
+6. Make sure to enable/allow system notifications for Google Chrome Canary in your OS settings. This will let you receive notifications about incoming/outgoing transactions as they succeed.
+
 
 ## Setting up Firefox Developer Edition
 
-1. Download and install [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+To be added in v0.0.2 .
 
-2. Open [firefox.starshell.net](https://firefox.starshell.net/)
+<!-- 1. Download and install [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) -->
 
-3. Install the add-on (see [here](https://www.accessfirefox.org/Install_Addon_Manually.php) for help)
-
-
+<!-- 2. Open `about:addons` . -->
