@@ -68,7 +68,7 @@ git clone https://github.com/SolarRepublic/starshell-beta-releases
 6. Make sure to enable/allow system notifications for Google Chrome Canary in your OS settings. This will let you receive notifications about incoming/outgoing transactions as they succeed.
 
 
-## Setting up Firefox Developer Edition
+### Setting up Firefox Developer Edition
 
 1. Download and install [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 
@@ -85,7 +85,7 @@ git clone https://github.com/SolarRepublic/starshell-beta-releases
 6. Make sure to enable/allow system notifications for Firefox Developer Edition in your OS settings. This will let you receive notifications about incoming/outgoing transactions as they succeed.
 
 
-## Setting up with Brave Beta
+### Setting up with Brave Beta
 
 1. Download and install [Brave Beta](https://brave.com/download-beta/)
 
