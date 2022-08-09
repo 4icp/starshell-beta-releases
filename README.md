@@ -19,7 +19,7 @@ To make the update process simple, you will need to clone the Weekly channel git
 
 The recommended setup is to [clone and update using GitHub Desktop](cloning-with-github-desktop).
 
-For advanced users, you [clone and update the repository using git](#cloning-with-git).
+For advanced users, you can [clone and update the repository using git](#cloning-with-git).
 
 
 ### Cloning with GitHub Desktop
@@ -48,6 +48,7 @@ git clone https://github.com/SolarRepublic/starshell-beta-releases
 
  - [Chrome](#setting-up-chrome-canary)
  - [Firefox](#setting-up-firefox-developer-edition)
+ - [Brave](#setting-up-brave-beta)
 
 
 ### Setting up Chrome Canary
@@ -69,11 +70,36 @@ git clone https://github.com/SolarRepublic/starshell-beta-releases
 
 ## Setting up Firefox Developer Edition
 
-To be added in v0.0.5 .
+1. Download and install [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 
-<!-- 1. Download and install [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) -->
+2. Open `about:addons` .
 
-<!-- 2. Open `about:addons` . -->
+3. Click the gear icon.
+
+  ![Load extension](https://user-images.githubusercontent.com/1456400/183724765-1279ca60-a247-41b8-8066-8aa82fca799a.png)
+
+4. Select "Install Add-on From File..."
+
+5. Navigate to the directory where you cloned the `starshell-beta-releases` repository and choose the `firefox.xpi` file.
+
+6. Make sure to enable/allow system notifications for Firefox Developer Edition in your OS settings. This will let you receive notifications about incoming/outgoing transactions as they succeed.
+
+
+## Setting up with Brave Beta
+
+1. Download and install [Brave Beta](https://brave.com/download-beta/)
+
+2. Open `brave://extensions/` .
+
+3. Enable Developer mode in the top-right corner.
+
+![Load extension](https://user-images.githubusercontent.com/1456400/183725826-2a7d062a-b810-4b05-8573-c700671f13df.png)
+
+4. Click the "Load unpacked" button.
+
+5. Navigate to the directory where you cloned the `starshell-beta-releases` repository and choose the `chrome` directory.
+
+6. Make sure to enable/allow system notifications for Brave Beta in your OS settings. This will let you receive notifications about incoming/outgoing transactions as they succeed.
 
 
 ## Updating

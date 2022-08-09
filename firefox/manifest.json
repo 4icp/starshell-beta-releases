@@ -2,7 +2,7 @@
   "author": "Blake Regalia",
   "description": "A privacy-preserving, free and open-source Web3 wallet built for the Secret Network and greater Cosmos ecosystem.",
   "name": "StarShell Wallet",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "icons": {
     "16": "media/vendor/icon_16.png",
     "19": "media/vendor/icon_19.png",
@@ -43,7 +43,7 @@
   "content_scripts": [
     {
       "js": [
-        "assets/src/script/ics-spotter.479c8109.js"
+        "assets/src/script/ics-spotter.e0c0416e.js"
       ],
       "matches": [
         "file://*/*",
@@ -58,7 +58,7 @@
     "persistent": false,
     "page": "background.html"
   },
-  "content_security_policy": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self'",
+  "content_security_policy": "script-src 'unsafe-eval'; object-src 'self'",
   "browser_specific_settings": {
     "gecko": {
       "id": "wallet@starshell.net"
